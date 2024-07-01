@@ -31,7 +31,7 @@ This is my first deep dive into setting up my Linux development environment.
  `sudo pam-auth-update`
 
 
-Restart the computer and then got into Settings > Users > [User]. Click on Fingerprint Login to enable it.
+Restart the computer and then go into Settings > Users > [User]. Click on Fingerprint Login to enable it.
 ![image](https://github.com/mnicholstamu/linux-setup/assets/128824999/5c9eed79-2f0a-433d-b4ec-59ea9463ae8d)
 ![image](https://github.com/mnicholstamu/linux-setup/assets/128824999/6d504bfd-6cfc-43f6-bdf8-29331580cc6f)
 
