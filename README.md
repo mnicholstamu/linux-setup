@@ -16,7 +16,7 @@ This is my first deep dive into setting up my Linux development environment.
       - [Google Chrome](https://www.google.com/chrome/)
   - Screen Capture
     - [OBS Studio](https://obsproject.com/)
-  - Meetings/COmmunications
+  - Meetings/Communications
     - [Slack](https://slack.com/downloads/linux)
     - [Zoom](https://zoom.us/download?os=linux)
   - Office Suite
@@ -24,7 +24,8 @@ This is my first deep dive into setting up my Linux development environment.
   - IDE(s)
     - [VS Code](https://code.visualstudio.com/)
     - [WebStorm](https://www.jetbrains.com/webstorm/)
-
+  - WP Development (for work)
+    - [Local](https://localwp.com/help-docs/getting-started/installing-local/)
 ## Fingerprint scan for login
 `sudo apt install fprintd libpam-fprintd`
  `sudo pam-auth-update`
